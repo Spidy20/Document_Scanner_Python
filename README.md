@@ -1,4 +1,5 @@
-##  Document📝 Scanner using Python [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Document_Scanner_Python/blob/master/LICENSE.txt)
+##  Document📝 Scanner
+🖨️ using Python [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Document_Scanner_Python/blob/master/LICENSE.txt)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
