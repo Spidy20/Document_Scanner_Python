@@ -27,7 +27,6 @@ launch = False
 w = 385;h = 535
 size = (w, h)
 
-
 def launch_mob_cam():
     global cp2, crop_c, crop_images, pdf_c, pdf_b, scanned_imgs
     url = txt.get()
